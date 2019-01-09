@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -13,4 +16,5 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.UpdateProject" />
 </keymap>
