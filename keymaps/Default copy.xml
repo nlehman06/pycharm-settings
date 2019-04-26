@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="OverrideMethods" />
+  <action id="PylintCurrentFileAction">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
