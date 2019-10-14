@@ -1,0 +1,18 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="accentMode" value="true" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="treeFontSize" value="14" />
+    <option name="tabFontSize" value="16" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="accentColor" value="7a3ba5" />
+    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="userId" value="78fbc42:16dcb5bba3b:-8000" />
+    <option name="version" value="4.5.1" />
+  </component>
+</application>
